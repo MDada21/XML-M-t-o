@@ -1,0 +1,8 @@
+1. Représentation graphique de l'arbre XML
+L'arborescence XML se structure de la racine vers les feuilles comme suit :
+
+Racine : meteo
+
+Enfant(s) : mesure (Attribut: date)
+
+Enfant(s) : ville (Attributs: nom, temperature)
